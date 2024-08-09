@@ -1,1 +1,9 @@
 # Maternal_Health_Risk_Assessment_System
+
+**Objective:** This project explores factors influencing maternal health risks using various machine learning models, such as K-Nearest Neighbors (KNN), Naive Bayes, Support Vector Machines (SVM), Artificial Neural Networks (ANN), Random Forest, and Decision Trees. The goal is to identify the most effective algorithm for accurate risk prediction. Insights from this analysis aim to improve maternal health monitoring, helping healthcare providers deliver personalized and timely interventions.
+
+
+Check out the video below for a quick overview of the user interface I built for this project, designed to make the insights and predictions easily accessible to healthcare providers:
+
+https://github.com/user-attachments/assets/9e993b1b-19a8-4eac-b1d6-478c921c55e7
+
