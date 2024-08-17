@@ -18,4 +18,5 @@ https://github.com/user-attachments/assets/9e993b1b-19a8-4eac-b1d6-478c921c55e7
 
 
 ## **Acknowledgments**
-This project was developed as part of a group assignment at the National Higher School of Artificial Intelligence and was made possible through the collaborative effort of the team.
+This project was developed as part of a group assignment at the [National Higher School of Artificial Intelligence](https://www.ensia.edu.dz/) and was made possible through the collaborative effort of the team.
+
