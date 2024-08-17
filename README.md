@@ -17,5 +17,5 @@ Check out the video below for a quick overview of the user interface I built for
 https://github.com/user-attachments/assets/9e993b1b-19a8-4eac-b1d6-478c921c55e7
 
 
-Acknowledgments
+## **Acknowledgments**
 This project was developed as part of a group assignment at the National Higher School of Artificial Intelligence and was made possible through the collaborative effort of the team.
