@@ -1,4 +1,4 @@
-# Maternal_Health_Risk_Assessment_System
+# Maternal Health Risk Assessment System
 
 <img width="575" alt="image" src="https://github.com/user-attachments/assets/cf4384a7-cd1c-4a88-aef1-51259e12e4bf">
 
